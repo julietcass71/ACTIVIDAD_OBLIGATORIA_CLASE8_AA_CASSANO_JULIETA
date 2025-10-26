@@ -20,25 +20,3 @@ Se parte de un dataset con variables de comportamiento (frecuencia de compra, ga
    - El **coeficiente de silhouette promedio**.  
 2. Visualizar las separaciones de los clusters usando reducción de dimensionalidad (**PCA 2D**).  
 3. Analizar cómo cambia la calidad del clustering antes y después de eliminar el ruido.  
-
----
-
-**Estructura del proyecto (Cookiecutter)**
-
-segmentacion-clientes-kmeans/
-
-├── data/
-
-│ ├── raw/ ← Dataset original (kmeans_3clusters.csv)
-
-├── notebooks/
-
-│ └── TAREA_OBLIGATORIA_CLASE8_AA_CASSANO_JULIETA.ipynb
-
-├── reports/
-
-│ └── figures/ ← Gráficos de codo, silhouette y PCA
-
-├── src/ ← Scripts de preprocesamiento o modelado
-
-└── README.md
