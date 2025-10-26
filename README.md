@@ -31,10 +31,6 @@ segmentacion-clientes-kmeans/
 
 │ ├── raw/ ← Dataset original (kmeans_3clusters.csv)
 
-│ ├── interim/ ← Transformaciones intermedias
-
-│ └── processed/ ← Datos finales (limpios)
-
 ├── notebooks/
 
 │ └── TAREA_OBLIGATORIA_CLASE8_AA_CASSANO_JULIETA.ipynb
