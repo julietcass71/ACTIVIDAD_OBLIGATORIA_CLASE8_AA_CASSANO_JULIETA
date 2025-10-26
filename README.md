@@ -24,14 +24,25 @@ Se parte de un dataset con variables de comportamiento (frecuencia de compra, ga
 ---
 
 **Estructura del proyecto (Cookiecutter)**
+
 segmentacion-clientes-kmeans/
+
 ├── data/
+
 │ ├── raw/ ← Dataset original (kmeans_3clusters.csv)
+
 │ ├── interim/ ← Transformaciones intermedias
+
 │ └── processed/ ← Datos finales (limpios)
+
 ├── notebooks/
+
 │ └── TAREA_OBLIGATORIA_CLASE8_AA_CASSANO_JULIETA.ipynb
+
 ├── reports/
+
 │ └── figures/ ← Gráficos de codo, silhouette y PCA
+
 ├── src/ ← Scripts de preprocesamiento o modelado
+
 └── README.md
