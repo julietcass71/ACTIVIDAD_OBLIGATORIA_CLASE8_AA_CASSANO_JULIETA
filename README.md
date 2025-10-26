@@ -19,4 +19,14 @@ Se parte de un dataset con variables de comportamiento (frecuencia de compra, ga
    - El **método del codo (inercia)**.  
    - El **coeficiente de silhouette promedio**.  
 2. Visualizar las separaciones de los clusters usando reducción de dimensionalidad (**PCA 2D**).  
-3. Analizar cómo cambia la calidad del clustering antes y después de eliminar el ruido.  
+3. Analizar cómo cambia la calidad del clustering antes y después de eliminar el ruido.
+
+**Presentación en video:** 
+
+https://drive.google.com/file/d/18JLOGnskhHOY7C0RvvXf_IrdiMAJiPxv/view?usp=sharing
+
+Duración aproximada: 6:30 minutos.  
+Incluye:
+- Ejecución del código paso a paso.  
+- Explicación de las métricas de inercia y silhouette.  
+- Justificación de la elección del número óptimo de K.  
