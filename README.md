@@ -1,5 +1,7 @@
 **Segmentación de Clientes con K-Means**
+
 **Actividad Obligatoria – Clase 8 · Aprendizaje Automático**
+
 **Estudiante:** Nancy Julieta Cassano  
 **Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial – CET N° 9 “Malvinas Argentinas”**  
 **Año:** 2025  
